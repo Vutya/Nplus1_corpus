@@ -32,4 +32,5 @@ Vestibulum et nulla in eros tincidunt lacinia sit amet quis sem. Phasellus rhonc
     <author>Фамилия_2 Имя_2</author>
     <article>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis placerat ultrices leo. Integer dui felis, consequat ut viverra id, molestie non velit. Aliquam eget interdum lorem. Nullam malesuada faucibus purus convallis pretium. In eget arcu quis justo efficitur sodales. Suspendisse eget finibus nunc. Fusce eu sem vitae libero egestas facilisis. Pellentesque sem lorem, ullamcorper vitae accumsan sed, auctor id lorem.</article>
   </item>
+</data>
 ```
